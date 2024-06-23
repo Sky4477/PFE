@@ -41,7 +41,7 @@ Fournissez des instructions détaillées pour installer et configurer le projet 
 
 bash
 Copier le code
-git clone https://github.com/votre_nom_utilisateur/votre_projet.git
+git clone https://github.com/Sky4477/PFE.git
 cd votre_projet
 npm install  # Ou tout autre gestionnaire de paquets
 Utilisation
