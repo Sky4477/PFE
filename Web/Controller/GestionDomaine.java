@@ -16,8 +16,6 @@ public class GestionDomaine {
 
     private final TerrainAgricoleService terrainAgricoleService;
 
-
-
     @GetMapping
     public ResponseEntity<List<TerrainAgricole>> getAllDomaines() {
         return ResponseEntity.ok().body(terrainAgricoleService.findAll());
